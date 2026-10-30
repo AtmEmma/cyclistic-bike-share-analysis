@@ -1,0 +1,4 @@
+-- Cyclistic Bike-Share Analysis
+-- Author: Emmanuel Atimbire
+-- Purpose: Analyse usage patterns
+-- between annual members and casual riders.
