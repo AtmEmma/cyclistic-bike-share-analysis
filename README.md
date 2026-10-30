@@ -24,21 +24,24 @@ The resulting analysis table was named `clean_combined_trips`.
 - Ride duration comparisons
 - Differences between annual members and casual riders
 
-## Dashboard
-Explore the interactive Tableau dashboard:
+## Interactive Tableau Dashboard
 
-[Insert Tableau Public Dashboard Link]
+[View Dashboard on Tableau Public](https://public.tableau.com/views/CasestudyCyclisticBikeShareAnalysis_17906202945770/Dashboard1)
 
-## Repository Structure
-- `SQL/` – SQL analysis scripts
-- `Dashboard/` – Dashboard screenshots and supporting materials
-- `Documentation/` – Project documentation and summary
+## Project Files
 
+- SQL: SQL analysis queries.
+- Dashboard: Tableau dashboard screenshot and description.
+- Documentation: Project summary and findings.
 ## Key Findings
-To be updated with verified findings from the analysis.
+Annual members completed 64% of all rides in 2025 (3.49 million rides) while casual 
+riders accounted for 36% (1.97 million rides). This indicates that annual members are the primary users of the Cyclistic bike-sharing service.  
+• Casual rides averaged 20–26 minutes while annual member rides averaged 11–14 
+minutes, this suggests that casual riders mainly use bikes for leisure, sightseeing or recreational activities whereas members use bikes for shorter, purpose-driven trips. 
+•  Annual members completed 2.23 million electric-bike rides compared with 1.28 million by casual riders.  This indicates strong demand for electric bikes regardless of membership type.
 
 ## Conclusion
 This project demonstrates practical skills in data preparation, SQL querying, exploratory data analysis and data visualisation.
 
 ## Author
-[Your Name]
+Emmanuel Atimbire
