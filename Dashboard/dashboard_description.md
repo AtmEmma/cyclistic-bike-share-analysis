@@ -1,7 +1,19 @@
-# Cyclistic Tableau Dashboard
+# Cyclistic Bike-Share Dashboard
 
-This folder contains the Tableau dashboard
-and visualisation materials for the
-Cyclistic Bike-Share Analysis project.
+## Project Overview
+This dashboard presents an analysis of Cyclistic bike-share usage, comparing annual members and casual riders.
 
-Dashboard: https://public.tableau.com/views/CasestudyCyclisticBikeShareAnalysis_17906202945770/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## Interactive Tableau Dashboard
+
+[View the Cyclistic Bike-Share Dashboard on Tableau Public](https://public.tableau.com/views/CasestudyCyclisticBikeShareAnalysis_17906202945770/Dashboard1)
+
+## Dashboard Purpose
+The dashboard helps explore differences in bike usage patterns between the two rider categories.
+
+## Screenshot
+See the dashboard screenshot uploaded in this folder.
+
+## Tools
+- Tableau Public
+- SQL Server Management Studio
+- SQL
