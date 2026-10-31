@@ -24,6 +24,26 @@ The resulting analysis table was named `clean_combined_trips`.
 - Ride duration comparisons
 - Differences between annual members and casual riders
 
+  Technical Skills Demonstrated
+
+SQL and Data Analysis
+- Data quality assessment and validation
+- Handling missing values
+- Duplicate record identification
+- Data transformation using SQL Server
+- Aggregation and grouping
+- Date and time analysis
+- Business-oriented exploratory data analysis
+
+SQL Functions and Techniques
+- SELECT, WHERE and GROUP BY
+- CASE WHEN statements
+- COUNT, AVG, MIN and MAX
+- DATENAME and DATEPART
+- DATEDIFF
+- Window functions
+- Conditional aggregation
+
  Interactive Tableau Dashboard
 
 [View Dashboard on Tableau Public](https://public.tableau.com/views/CasestudyCyclisticBikeShareAnalysis_17906202945770/Dashboard1)
