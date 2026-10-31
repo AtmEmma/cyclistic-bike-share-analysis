@@ -44,6 +44,10 @@ SQL Functions and Techniques
 - Window functions
 - Conditional aggregation
 
+## Tableau Dashboard Preview
+
+![Cyclistic Bike-Share Dashboard](Dashboard/tableau_dashboard.png)
+
  Interactive Tableau Dashboard
 
 [View Dashboard on Tableau Public](https://public.tableau.com/views/CasestudyCyclisticBikeShareAnalysis_17906202945770/Dashboard1)
